@@ -27,5 +27,7 @@ Even though it appears that NYC has a much higher population, but it only means 
 
 ## Tableau Story Summary 
 
-![Story page 1] (https://github.com/pegkhiev/bikesharing/blob/master/Images/Story_1.png)
+![alt text] (https://github.com/pegkhiev/bikesharing/blob/master/Images/Story_1.png "Tableau story page 1")
+
+<img alt = "Tableau story page 1" src = "https://github.com/pegkhiev/bikesharing/blob/master/Images/Story_1.png">
 
