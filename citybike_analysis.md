@@ -26,3 +26,6 @@ The objective of this study is to look at the data analysis of NYC Citi Bike, an
 Even though it appears that NYC has a much higher population, but it only means that a bike sharing business can be just as successful on a smaller scale, because the gender profile of Des Moines is very similar to the gender profile of the top stations in NYC. 
 
 ## Tableau Story Summary 
+
+![Story page 1] (https://github.com/pegkhiev/bikesharing/blob/master/Images/Story_1.png)
+
