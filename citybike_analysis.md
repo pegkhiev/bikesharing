@@ -28,17 +28,17 @@ Even though it appears that NYC has a much higher population, but it only means 
 
 ## Tableau Story Summary 
 
+[Link to Tableau Story](https://public.tableau.com/profile/peggy.khiev#!/vizhome/Bikesharing_challenge/BikeSharinginDesMoines?publish=yes "Tableau Story")
+
 <img alt = "Tableau story page 1" src = "https://github.com/pegkhiev/bikesharing/blob/master/Images/Story_1.png">
 
-The first page is to draw the attention: most people would naturally think that there is no comparison between NYC and Des Moines, so a successful bike sharing business would have no relevance to Des Moines. 
+The first page is to draw the attention: most people would naturally think that there is no comparison between NYC and Des Moines, so a successful bike sharing business in NYC would have no relevance to Des Moines. 
 
 <img alt = "Tableau story page 2" src = "https://github.com/pegkhiev/bikesharing/blob/master/Images/Story_2.png">
 
-Page 2 shows that most customers are subscribers and not one-off customers, meaning that they are most likely residents who use bikesharing on a more regular basis. 
+Page 2 shows that most customers are subscribers and not one-off customers, and the most popular times are 8-9am, and 5-6pm, and these are the peak hours for people going to work and getting off work.  
 
-It also shows the most popular times are 8-9am, and 5-6pm, and these are the peak hours for people going to work and getting off work.  
-
-Both charts combined showed that it's mainly residents using the service.  Therefore investors do not need to be concerned that Des Moines does not have enough tourists. 
+Both charts combined showed that it's mainly residents using the service.  Therefore investors do not need to be concerned that Des Moines does not have enough tourists. And the success factors of NYC can be replicated in Des Moines residents in a smaller scale.
 
 <img alt = "Tableau story page 3" src = "https://github.com/pegkhiev/bikesharing/blob/master/Images/Story_3.png">
 
@@ -50,7 +50,7 @@ Page 3 also shows that male is the dominant user - so does it mean that a city h
 
 Page 4 identifies the top stations in NYC, and the gender split of the top stations. 
 
-It shows that even though the riders are mostly male, the resident gender profile is very different, it is more evenly split, and slightly more female than male. 
+It shows that even though the riders are mostly male, the resident gender profile is more evenly split, and slightly more female than male. 
 
 <img alt = "Tableau story page 5" src = "https://github.com/pegkhiev/bikesharing/blob/master/Images/Story_5.png">
 
@@ -62,4 +62,3 @@ Therefore the successful model in NYC can be leveraged in Des Moines.
 
 Page 6 answers any remaining question if Des Moines has enough 18-65 residents to use the bike service, and it shows that the 18-65 group in Des Moines is once again very similar to NYC.  
 
-[Link to Tableau Story](https://public.tableau.com/profile/peggy.khiev#!/vizhome/Bikesharing_challenge/BikeSharinginDesMoines?publish=yes "Tableau Story")
